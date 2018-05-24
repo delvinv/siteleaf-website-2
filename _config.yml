@@ -21,3 +21,5 @@ defaults:
   values:
     layout: page
 permalink: pretty
+github_user: delvinv
+github_repo: siteleaf-website-2
